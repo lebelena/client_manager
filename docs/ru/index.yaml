@@ -4,15 +4,9 @@ links:
   - title: Начало работы
     href: about.md
     description: Познакомьтесь с  функциональными возможностями платформы
-  - title: Заказы
-    href: order_client_manager.md
-    description: Создание и просмотр заказов
   - title: Заявки
-    href: nomenc_account_manager.md
+    href: tasks_acc_manager.md
     description: Создание, редактирование и отмена заявок 
-  - title: Номенклатура
-    href: nomenc_account_manager.md
-    description: Научитесь работать с номенклатурой
   - title: Товары
     href: goods_acc_manager.md
     description: Просмотр актуальных товарных остатков на складе

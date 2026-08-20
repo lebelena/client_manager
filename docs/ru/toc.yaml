@@ -1,12 +1,10 @@
-title: LCP for Unilever  
+title: LCP 
 href: index.yaml
 items:
   - name: Начало работы
     href: about.md 
   - name: Элементы управления
     items: 
-    - name: Заказ
-      href: order_client_manager.md 
     - name: Заявки
       href: tasks_acc_manager.md
     - name: Поручение
@@ -15,10 +13,6 @@ items:
     items: 
     - name: Номенклатура
       href: nomenc_account_manager.md 
-    - name: Пространства
-      href: space_client_manager.md
-    - name: Контрагенты
-      href: counterparty_client_manager.md 
   - name: Работа склада
     items: 
     - name: Документы поступления и списания
