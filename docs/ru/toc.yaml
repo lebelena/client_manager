@@ -9,10 +9,6 @@ items:
       href: tasks_acc_manager.md
     - name: Поручение
       href: poruchenie.md  
-  - name: Справочники
-    items: 
-    - name: Номенклатура
-      href: nomenc_account_manager.md 
   - name: Работа склада
     items: 
     - name: Документы поступления и списания
